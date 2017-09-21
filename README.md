@@ -1,44 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE>
 <html>
 	<head>
 		<title>ripper-hunter的个人主页</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<!-- [if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif] -->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.scrollzer.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-xlarge.css" />
-		</noscript>
-		<!-- [if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif] -->
 	</head>
 	<body>
 		<div id="wrapper">
-
-			<!-- Header -->
-				<section id="header" class="skel-layers-fixed">
-					<header>
-						<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-						<h1 id="logo"><a href="#">王浩</a></h1>
-					</header>
-					<nav id="nav">
-						<ul>
-							<li><a href="#one" class="active">个人简介</a></li>
-							<li><a href="#two">技能清单</a></li>
-							<li><a href="#three">成长之路</a></li>
-							<li><a href="#four">开源项目</a></li>
-							<li><a href="#five">工作经历</a></li>
-						</ul>
-					</nav>
-				</section>
-
 			<!-- Main -->
 				<div id="main">
 
@@ -71,8 +40,7 @@
 									</div>
 								</div>
 							</div>
-						</section>
-						
+						</section>						
 					<!-- Two -->
 						<section id="two">
 							<div class="container">
@@ -87,8 +55,7 @@
 									<li>大数据开发：Hadoop/HBase/Sqoop/hive/flume</li>
 								</ul>
 							</div>
-						</section>
-						
+						</section>						
 					<!-- Three -->
 						<section id="three">
 							<div class="container">
@@ -102,14 +69,12 @@
 								<ul>
 									<li>数据结构</li>
 									<li>软件构造</li>
-									<li>软件设计模式</li>
-                                                                                                                                                <li>java语言</li>
+									<li>软件设计模式</li>                                                                                                             <li>java语言</li>
 									<li>c++</li>
 									<li>软件体系架构</li>
 								</ul>
 							</div>
-						</section>
-						
+						</section>						
 					<!-- Four -->
 						<section id="four">
 							<div class="container">
@@ -117,38 +82,30 @@
 								<p>在这里收录了一些自己做得一些开源项目</p>
 								<div class="features">
 									<article>
-										<a href="#" target="_blank" class="image"><img src="images/project1.jpg" alt="" /></a>
 										<div class="inner">
 											<h4>软件杯参赛项目</h4>
 											<p>民航机票代理市场预测及可视化</p>
 										</div>
 									</article>
 									<article>
-										<a href="https://github.com/ripper-hunter/ssh" target="_blank" class="image"><img src="images/project2.jpg" alt="" /></a>
 										<div class="inner">
 											<h4>河北省重大科技需求</h4>
 											<p>河北省重大科技需求在线征集系统（MVC）</p>
 										</div>
 									</article>
 									<article>
-										<a href="#" target="_blank" class="image"><img src="images/project4.jpg" alt="" /></a>
 										<div class="inner">
 											<h4>学生管理系统</h4>
 											<p>数据库系统开发综合训练 --- 学生管理系统(JAVA+JSP)</p>
 										</div>
 									</article>
-					<!-- Five-->
-					
+					<!-- Five-->					
 						<section id="five">
 							<div class="container">
 								<h3>工作经历</h3>
 								<p>目前正在做毕业设计，暂无工作经历。</p>
 							</div>
-						</section>
-					
-				
-				</div>
-
+						</section>				
 			<!-- Footer -->
 				<section id="footer">
 					<div class="container">
