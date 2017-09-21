@@ -76,9 +76,7 @@ libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis 
 		<li><a href="#" class="button">Etiam posuere</a></li>
 	</ul>
 </div>
-<div class="copyrights">Collect from <a href="http://www.cssmoban.com/"  title="网站模板">网
 
-站模板</a></div>
 <div id="featured">
 	<div class="container">
 		<div class="title">
