@@ -8,55 +8,9 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
-
-
-
 </head>
 <body>
-<div id="header" class="container">
-	<div id="logo">
-		<h1><a href="#">Pastime</a></h1>
-	</div>
-	<div id="menu">
-		<ul>
-			<li class="current_page_item"><a href="#" accesskey="1" 
 
-title="">Homepage</a></li>
-			<li><a href="#" accesskey="2" title="">Our Clients</a></li>
-			<li><a href="#" accesskey="3" title="">About Us</a></li>
-			<li><a href="#" accesskey="4" title="">Careers</a></li>
-			<li><a href="#" accesskey="5" title="">Contact Us</a></li>
-		</ul>
-	</div>
-</div>
-
-<div id="banner">
-	<div class="container">
-		<ul class="staff">
-			<li><img src="images/pic01.jpg" alt="" /></li>
-			<li><img src="images/pic02.jpg" alt="" /></li>
-			<li><img src="images/pic03.jpg" alt="" /></li>
-		</ul>
-		<div class="title">
-			<h2>Etiam rhoncus volutpat</h2>
-			<span class="byline">Maecenas pede nisl, elementum eu, ornare 
-
-ac, malesuada at, erat. Proin gravida orci porttitor accumsan.</span>
-		</div>
-		<p>Vivamus fermentum nibh in augue. Praesent a lacus at urna congue 
-
-rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Duis enim nulla, luctus eu, 
-
-dapibus lacinia, venenatis. Vestibulum imperdiet, magna nec eleifend rutrum lectus vestibulum 
-
-velit, euismod lacinia quam nisl id lorem.</p>
-		<ul class="actions">
-			<li><a href="#" class="button">Etiam posuere</a></li>
-		</ul>
-	</div>
-</div>
 <div id="page" class="container">
 	<div class="title">
 		<h2>Nulla luctus eleifend</h2>
