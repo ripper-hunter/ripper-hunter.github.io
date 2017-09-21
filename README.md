@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html>
 	<head>
 		<title>ripper-hunter的个人主页</title>
