@@ -11,7 +11,7 @@
 <link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 
-<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
 
 </head>
 <body>
@@ -31,6 +31,7 @@ title="">Homepage</a></li>
 		</ul>
 	</div>
 </div>
+
 <div id="banner">
 	<div class="container">
 		<ul class="staff">
